@@ -1,4 +1,4 @@
-The goal of this coding exam is to quickly get you off the ground with **Lists and Keys** in React JS.
+check it out: https://lokacharct.ccbp.tech/
 
 ### Refer to the image below:
 
